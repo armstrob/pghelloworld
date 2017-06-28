@@ -63,6 +63,9 @@
         },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.phonegap.agy"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.phonegap.agy"
         }
     },
     "dependent_plugins": {
